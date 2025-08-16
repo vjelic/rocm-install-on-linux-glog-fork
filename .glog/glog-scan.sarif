@@ -1,0 +1,5475 @@
+{
+  "version": "2.1.0",
+  "runs": [
+    {
+      "tool": {
+        "driver": {
+          "name": "Glog.AI",
+          "organization": "Glog.AI",
+          "fullName": "Glog, Making software more secure",
+          "version": "1.0.0",
+          "semanticVersion": "1.0.0",
+          "informationUri": "https://www.glog.ai",
+          "rules": [
+            {
+              "id": "glog-3ed6aff4-15ad-4251-add8-cedd9df9b92f",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS185832"
+                ]
+              }
+            },
+            {
+              "id": "glog-009234d2-0297-404e-bd5f-b5783940b564",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-acda6138-2a09-4494-9be3-a319e0d1a976",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-0b56235e-0639-46a7-9fc0-65860eee66ca",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS111237"
+                ]
+              }
+            },
+            {
+              "id": "glog-79462049-18ea-4026-9c62-67b874648225",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-804ff532-d543-4aa1-a631-5393b393b473",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS111237"
+                ]
+              }
+            },
+            {
+              "id": "glog-3cd96fa8-f389-4c59-adfc-4320c82d7e2e",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS141863"
+                ]
+              }
+            },
+            {
+              "id": "glog-9d8b7637-9d89-4f96-861b-0cc1e7ab03b7",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS111237"
+                ]
+              }
+            },
+            {
+              "id": "glog-edd5544a-93d7-49ca-87f9-c301e005477c",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-5e744ce3-4677-4d71-8c06-8c4ad9f131e4",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS185832"
+                ]
+              }
+            },
+            {
+              "id": "glog-0482e1a7-450b-4b2d-b252-60cd90b628b0",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-b06890f6-3bee-449d-ab64-551d4eefe603",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS185832"
+                ]
+              }
+            },
+            {
+              "id": "glog-7b77c31c-2a4d-45e7-a657-860e218de2b5",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS141863"
+                ]
+              }
+            },
+            {
+              "id": "glog-e06e62dc-a618-46fc-9bea-7f5c78af8ab4",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS141863"
+                ]
+              }
+            },
+            {
+              "id": "glog-8aca8065-35c5-4bc0-9fc6-a9bf606befdd",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-2e43db3c-7aab-4ad4-87d1-3cd39f7b07ef",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-891e2e8f-fe9d-4491-8877-5207076c47ac",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-a882e983-e19e-4e31-aa23-a4c24e669232",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS141863"
+                ]
+              }
+            },
+            {
+              "id": "glog-c43498d3-b72a-4e50-8bae-04020f3610eb",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-289e3654-0ea6-4fe1-baa3-f0fc097ddad4",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS185832"
+                ]
+              }
+            },
+            {
+              "id": "glog-dfd73c82-8ee1-48a8-9938-6112b57c5598",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-611ed425-b545-42b3-9275-6f82cefdc6ef",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS185832"
+                ]
+              }
+            },
+            {
+              "id": "glog-8e3d6ef3-0761-4173-b6d5-4f135c87129e",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-0fc4e31b-aa5a-4635-8721-d89f8038f2f5",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS185832"
+                ]
+              }
+            },
+            {
+              "id": "glog-25cc4cf0-25a5-4cb9-98de-d1d27acb4b75",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS108330"
+                ]
+              }
+            },
+            {
+              "id": "glog-45d6d139-2e34-4c15-a339-78e67d85c6eb",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-d3d94c68-b609-41d0-aea2-634452cb63a6",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS185832"
+                ]
+              }
+            },
+            {
+              "id": "glog-d205d265-afa2-4bab-a679-490f3d6a5f73",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS141863"
+                ]
+              }
+            },
+            {
+              "id": "glog-dd5ae44a-869b-48a7-b7fe-1e1237bc3295",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS141863"
+                ]
+              }
+            },
+            {
+              "id": "glog-0bfc6bcc-acda-49e3-8ae3-eb11b260b31e",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-a54e2423-d22d-4183-aa14-f271cb6f86c6",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS111237"
+                ]
+              }
+            },
+            {
+              "id": "glog-171106ef-c5bb-41c1-ad23-f0b596c4bc89",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-4491cd68-b290-4e73-8109-03798c664be4",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS185832"
+                ]
+              }
+            },
+            {
+              "id": "glog-6276a412-36ff-4b99-b1fd-7c59fc0d922b",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS185832"
+                ]
+              }
+            },
+            {
+              "id": "glog-f47b4ed1-c661-4944-bd4d-4e373b66dd80",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS141863"
+                ]
+              }
+            },
+            {
+              "id": "glog-634c9a29-023f-434b-aebe-0339a8605b17",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS111237"
+                ]
+              }
+            },
+            {
+              "id": "glog-a1fc2614-b5d2-492b-b411-104b5239aae1",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-0d46dba3-5f11-4eaf-93ef-a04b7bf66ad1",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS185832"
+                ]
+              }
+            },
+            {
+              "id": "glog-e8e7651a-3318-48f6-95c5-7e9ae3a161df",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-84a8dd2a-43c9-429c-8b79-052f39497d58",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS111237"
+                ]
+              }
+            },
+            {
+              "id": "glog-32fe53bb-cec9-4870-82e3-6eed53f3f156",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-bd7f9eb2-7e8e-4da5-b962-68e5adef6fbb",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS141863"
+                ]
+              }
+            },
+            {
+              "id": "glog-6363d3a9-10d3-476b-8654-eebb5d713706",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-7cbaa0b2-05cf-4a37-8b31-f791af380b6a",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-a9bb7ed8-23dc-4a17-a3d7-8f54ea497d27",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-3668e28c-bb04-4515-8650-6d3e1321754a",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-3b4eb57a-d5a9-4ac0-993d-73e2b875a88f",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS141863"
+                ]
+              }
+            },
+            {
+              "id": "glog-d5c5dcda-e135-4409-bf85-b019510a159f",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-96bf5ffa-f05d-4bb5-8cda-d6851a8a518d",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-bbb5a1c1-dd3a-4161-afca-8f02310ab78e",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-23385698-95ec-4235-8cfe-f6bbb62d9601",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-0cf10c0e-6d6f-47e6-9919-e2ad8661fb68",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-0f2f7e81-083b-4b85-ba1b-2d72014f2ec4",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-3e8b5952-e4e3-4f40-85cf-c0526fc2ec36",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            },
+            {
+              "id": "glog-d19ddae8-c609-498e-bc07-8b47bc175095",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS111237"
+                ]
+              }
+            },
+            {
+              "id": "glog-55c0e5b8-13f4-4579-b12a-8687d6d37e02",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS141863"
+                ]
+              }
+            },
+            {
+              "id": "glog-27fdf800-8b04-4d5d-a39e-a7284a4a8810",
+              "help": {
+                "text": ""
+              },
+              "properties": {
+                "tags": [
+                  "DS140021"
+                ]
+              }
+            }
+          ],
+          "language": "en-US",
+          "contents": [
+            "localizedData",
+            "nonLocalizedData"
+          ],
+          "isComprehensive": false
+        }
+      },
+      "language": "en-US",
+      "results": [
+        {
+          "ruleId": "glog-3ed6aff4-15ad-4251-add8-cedd9df9b92f",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/utils.c"
+                },
+                "region": {
+                  "startLine": 144,
+                  "startColumn": 4,
+                  "endLine": 144,
+                  "endColumn": 21,
+                  "charOffset": 3544,
+                  "charLength": 17,
+                  "snippet": {
+                    "text": "strcpy(str, temp)",
+                    "rendered": {
+                      "text": "strcpy(str, temp)",
+                      "markdown": "`strcpy(str, temp)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "strcpy is frequently dangerous, as it will cause a buffer overflow if the source is larger than the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/utils.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 3544,
+                        "charLength": 17
+                      },
+                      "insertedContent": {
+                        "text": "strcpy_s(str, <size of str>,  temp)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "strcpy is frequently dangerous, as it will cause a buffer overflow if the source is larger than the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/utils.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 3544,
+                        "charLength": 17
+                      },
+                      "insertedContent": {
+                        "text": "strlcpy(str,  temp, <size of str>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-acda6138-2a09-4494-9be3-a319e0d1a976",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/utils.c"
+                },
+                "region": {
+                  "startLine": 206,
+                  "startColumn": 20,
+                  "endLine": 206,
+                  "endColumn": 29,
+                  "charOffset": 4407,
+                  "charLength": 9,
+                  "snippet": {
+                    "text": "strlen(p)",
+                    "rendered": {
+                      "text": "strlen(p)",
+                      "markdown": "`strlen(p)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/utils.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 4407,
+                        "charLength": 9
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(p, <size of p>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/utils.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 4407,
+                        "charLength": 9
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(p, <size of p>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-0b56235e-0639-46a7-9fc0-65860eee66ca",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/utils.c"
+                },
+                "region": {
+                  "startLine": 206,
+                  "startColumn": 4,
+                  "endLine": 206,
+                  "endColumn": 29,
+                  "charOffset": 4391,
+                  "charLength": 25,
+                  "snippet": {
+                    "text": "strncpy(dst, p, strlen(p)",
+                    "rendered": {
+                      "text": "strncpy(dst, p, strlen(p)",
+                      "markdown": "`strncpy(dst, p, strlen(p)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "strncpy is dangerous, as if the source contains 'n' or more characters, it will not null terminate the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/utils.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 4391,
+                        "charLength": 25
+                      },
+                      "insertedContent": {
+                        "text": "strcpy_s(dst,  strlen(p,  p)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "strncpy is dangerous, as if the source contains 'n' or more characters, it will not null terminate the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/utils.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 4391,
+                        "charLength": 25
+                      },
+                      "insertedContent": {
+                        "text": "strlcpy(dst,  p,  strlen(p)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-79462049-18ea-4026-9c62-67b874648225",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/utils.c"
+                },
+                "region": {
+                  "startLine": 124,
+                  "startColumn": 14,
+                  "endLine": 124,
+                  "endColumn": 25,
+                  "charOffset": 3192,
+                  "charLength": 11,
+                  "snippet": {
+                    "text": "strlen(str)",
+                    "rendered": {
+                      "text": "strlen(str)",
+                      "markdown": "`strlen(str)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/utils.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 3192,
+                        "charLength": 11
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(str, <size of str>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/utils.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 3192,
+                        "charLength": 11
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(str, <size of str>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-804ff532-d543-4aa1-a631-5393b393b473",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/utils.c"
+                },
+                "region": {
+                  "startLine": 142,
+                  "startColumn": 4,
+                  "endLine": 142,
+                  "endColumn": 33,
+                  "charOffset": 3504,
+                  "charLength": 29,
+                  "snippet": {
+                    "text": "strncpy(temp, str, field_len)",
+                    "rendered": {
+                      "text": "strncpy(temp, str, field_len)",
+                      "markdown": "`strncpy(temp, str, field_len)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "strncpy is dangerous, as if the source contains 'n' or more characters, it will not null terminate the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/utils.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 3504,
+                        "charLength": 29
+                      },
+                      "insertedContent": {
+                        "text": "strcpy_s(temp,  field_len,  str)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "strncpy is dangerous, as if the source contains 'n' or more characters, it will not null terminate the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/utils.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 3504,
+                        "charLength": 29
+                      },
+                      "insertedContent": {
+                        "text": "strlcpy(temp,  str,  field_len)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-3cd96fa8-f389-4c59-adfc-4320c82d7e2e",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/utils.c"
+                },
+                "region": {
+                  "startLine": 97,
+                  "startColumn": 8,
+                  "endLine": 97,
+                  "endColumn": 26,
+                  "charOffset": 2793,
+                  "charLength": 18,
+                  "snippet": {
+                    "text": "strcat(dst, \"...\")",
+                    "rendered": {
+                      "text": "strcat(dst, \"...\")",
+                      "markdown": "`strcat(dst, \"...\")`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If the combination of strings is larger than the destination buffer, strcat will cbuffer overflow the destination buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/utils.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 2793,
+                        "charLength": 18
+                      },
+                      "insertedContent": {
+                        "text": "strcat_s(dst, <size of dst>,  \"...\")"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If the combination of strings is larger than the destination buffer, strcat will cbuffer overflow the destination buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/utils.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 2793,
+                        "charLength": 18
+                      },
+                      "insertedContent": {
+                        "text": "strlcat(dst,  \"...\", <size of dst>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-9d8b7637-9d89-4f96-861b-0cc1e7ab03b7",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/utils.c"
+                },
+                "region": {
+                  "startLine": 94,
+                  "startColumn": 4,
+                  "endLine": 94,
+                  "endColumn": 30,
+                  "charOffset": 2720,
+                  "charLength": 26,
+                  "snippet": {
+                    "text": "strncpy(dst, src, (max-3))",
+                    "rendered": {
+                      "text": "strncpy(dst, src, (max-3))",
+                      "markdown": "`strncpy(dst, src, (max-3))`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "strncpy is dangerous, as if the source contains 'n' or more characters, it will not null terminate the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/utils.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 2720,
+                        "charLength": 26
+                      },
+                      "insertedContent": {
+                        "text": "strcpy_s(dst,  (max-3,  src)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "strncpy is dangerous, as if the source contains 'n' or more characters, it will not null terminate the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/utils.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 2720,
+                        "charLength": 26
+                      },
+                      "insertedContent": {
+                        "text": "strlcpy(dst,  src,  (max-3)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-edd5544a-93d7-49ca-87f9-c301e005477c",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/utils.c"
+                },
+                "region": {
+                  "startLine": 54,
+                  "startColumn": 16,
+                  "endLine": 54,
+                  "endColumn": 28,
+                  "charOffset": 1899,
+                  "charLength": 12,
+                  "snippet": {
+                    "text": "strlen(text)",
+                    "rendered": {
+                      "text": "strlen(text)",
+                      "markdown": "`strlen(text)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/utils.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 1899,
+                        "charLength": 12
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(text, <size of text>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/utils.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 1899,
+                        "charLength": 12
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(text, <size of text>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-5e744ce3-4677-4d71-8c06-8c4ad9f131e4",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/utils.c"
+                },
+                "region": {
+                  "startLine": 78,
+                  "startColumn": 4,
+                  "endLine": 78,
+                  "endColumn": 22,
+                  "charOffset": 2413,
+                  "charLength": 18,
+                  "snippet": {
+                    "text": "strcpy(temp, text)",
+                    "rendered": {
+                      "text": "strcpy(temp, text)",
+                      "markdown": "`strcpy(temp, text)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "strcpy is frequently dangerous, as it will cause a buffer overflow if the source is larger than the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/utils.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 2413,
+                        "charLength": 18
+                      },
+                      "insertedContent": {
+                        "text": "strcpy_s(temp, <size of temp>,  text)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "strcpy is frequently dangerous, as it will cause a buffer overflow if the source is larger than the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/utils.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 2413,
+                        "charLength": 18
+                      },
+                      "insertedContent": {
+                        "text": "strlcpy(temp,  text, <size of temp>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-0482e1a7-450b-4b2d-b252-60cd90b628b0",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/utils.c"
+                },
+                "region": {
+                  "startLine": 33,
+                  "startColumn": 22,
+                  "endLine": 33,
+                  "endColumn": 34,
+                  "charOffset": 1521,
+                  "charLength": 12,
+                  "snippet": {
+                    "text": "strlen(desc)",
+                    "rendered": {
+                      "text": "strlen(desc)",
+                      "markdown": "`strlen(desc)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/utils.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 1521,
+                        "charLength": 12
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(desc, <size of desc>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/utils.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 1521,
+                        "charLength": 12
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(desc, <size of desc>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-b06890f6-3bee-449d-ab64-551d4eefe603",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/rocm_offline_ui.c"
+                },
+                "region": {
+                  "startLine": 365,
+                  "startColumn": 4,
+                  "endLine": 365,
+                  "endColumn": 45,
+                  "charOffset": 11626,
+                  "charLength": 41,
+                  "snippet": {
+                    "text": "strcpy(argsInfo.wconfig, \"create.config\")",
+                    "rendered": {
+                      "text": "strcpy(argsInfo.wconfig, \"create.config\")",
+                      "markdown": "`strcpy(argsInfo.wconfig, \"create.config\")`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "strcpy is frequently dangerous, as it will cause a buffer overflow if the source is larger than the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/rocm_offline_ui.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 11626,
+                        "charLength": 41
+                      },
+                      "insertedContent": {
+                        "text": "strcpy_s(argsInfo.wconfig, <size of argsInfo.wconfig>,  \"create.config\")"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "strcpy is frequently dangerous, as it will cause a buffer overflow if the source is larger than the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/rocm_offline_ui.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 11626,
+                        "charLength": 41
+                      },
+                      "insertedContent": {
+                        "text": "strlcpy(argsInfo.wconfig,  \"create.config\", <size of argsInfo.wconfig>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-7b77c31c-2a4d-45e7-a657-860e218de2b5",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/rocm_offline_ui.c"
+                },
+                "region": {
+                  "startLine": 324,
+                  "startColumn": 12,
+                  "endLine": 324,
+                  "endColumn": 45,
+                  "charOffset": 10460,
+                  "charLength": 33,
+                  "snippet": {
+                    "text": "strcat(argsInfo->createArgs, \" \")",
+                    "rendered": {
+                      "text": "strcat(argsInfo->createArgs, \" \")",
+                      "markdown": "`strcat(argsInfo->createArgs, \" \")`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If the combination of strings is larger than the destination buffer, strcat will cbuffer overflow the destination buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/rocm_offline_ui.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 10460,
+                        "charLength": 33
+                      },
+                      "insertedContent": {
+                        "text": "strcat_s(argsInfo->createArgs, <size of argsInfo->createArgs>,  \" \")"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If the combination of strings is larger than the destination buffer, strcat will cbuffer overflow the destination buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/rocm_offline_ui.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 10460,
+                        "charLength": 33
+                      },
+                      "insertedContent": {
+                        "text": "strlcat(argsInfo->createArgs,  \" \", <size of argsInfo->createArgs>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-e06e62dc-a618-46fc-9bea-7f5c78af8ab4",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/rocm_offline_ui.c"
+                },
+                "region": {
+                  "startLine": 319,
+                  "startColumn": 8,
+                  "endLine": 319,
+                  "endColumn": 45,
+                  "charOffset": 10310,
+                  "charLength": 37,
+                  "snippet": {
+                    "text": "strcat(argsInfo->createArgs, argv[i])",
+                    "rendered": {
+                      "text": "strcat(argsInfo->createArgs, argv[i])",
+                      "markdown": "`strcat(argsInfo->createArgs, argv[i])`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If the combination of strings is larger than the destination buffer, strcat will cbuffer overflow the destination buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/rocm_offline_ui.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 10310,
+                        "charLength": 37
+                      },
+                      "insertedContent": {
+                        "text": "strcat_s(argsInfo->createArgs, <size of argsInfo->createArgs>,  argv[i])"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If the combination of strings is larger than the destination buffer, strcat will cbuffer overflow the destination buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/rocm_offline_ui.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 10310,
+                        "charLength": 37
+                      },
+                      "insertedContent": {
+                        "text": "strlcat(argsInfo->createArgs,  argv[i], <size of argsInfo->createArgs>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-8aca8065-35c5-4bc0-9fc6-a9bf606befdd",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/rocm_offline_ui.c"
+                },
+                "region": {
+                  "startLine": 316,
+                  "startColumn": 15,
+                  "endLine": 316,
+                  "endColumn": 30,
+                  "charOffset": 10246,
+                  "charLength": 15,
+                  "snippet": {
+                    "text": "strlen(argv[i])",
+                    "rendered": {
+                      "text": "strlen(argv[i])",
+                      "markdown": "`strlen(argv[i])`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/rocm_offline_ui.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 10246,
+                        "charLength": 15
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(argv[i], <size of argv[i]>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/rocm_offline_ui.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 10246,
+                        "charLength": 15
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(argv[i], <size of argv[i]>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-2e43db3c-7aab-4ad4-87d1-3cd39f7b07ef",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/rocm_offline_ui.c"
+                },
+                "region": {
+                  "startLine": 289,
+                  "startColumn": 45,
+                  "endLine": 289,
+                  "endColumn": 67,
+                  "charOffset": 9579,
+                  "charLength": 22,
+                  "snippet": {
+                    "text": "strlen(extra_packages)",
+                    "rendered": {
+                      "text": "strlen(extra_packages)",
+                      "markdown": "`strlen(extra_packages)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/rocm_offline_ui.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 9579,
+                        "charLength": 22
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(extra_packages, <size of extra_packages>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/rocm_offline_ui.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 9579,
+                        "charLength": 22
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(extra_packages, <size of extra_packages>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-891e2e8f-fe9d-4491-8877-5207076c47ac",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/rocm_offline_ui.c"
+                },
+                "region": {
+                  "startLine": 284,
+                  "startColumn": 45,
+                  "endLine": 284,
+                  "endColumn": 67,
+                  "charOffset": 9387,
+                  "charLength": 22,
+                  "snippet": {
+                    "text": "strlen(extra_packages)",
+                    "rendered": {
+                      "text": "strlen(extra_packages)",
+                      "markdown": "`strlen(extra_packages)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/rocm_offline_ui.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 9387,
+                        "charLength": 22
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(extra_packages, <size of extra_packages>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/rocm_offline_ui.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 9387,
+                        "charLength": 22
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(extra_packages, <size of extra_packages>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-a882e983-e19e-4e31-aa23-a4c24e669232",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/rocm_offline_ui.c"
+                },
+                "region": {
+                  "startLine": 243,
+                  "startColumn": 8,
+                  "endLine": 243,
+                  "endColumn": 59,
+                  "charOffset": 7159,
+                  "charLength": 51,
+                  "snippet": {
+                    "text": "strcat(pConfig->rocm_config.rocm_usescases, \"dkms\")",
+                    "rendered": {
+                      "text": "strcat(pConfig->rocm_config.rocm_usescases, \"dkms\")",
+                      "markdown": "`strcat(pConfig->rocm_config.rocm_usescases, \"dkms\")`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If the combination of strings is larger than the destination buffer, strcat will cbuffer overflow the destination buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/rocm_offline_ui.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 7159,
+                        "charLength": 51
+                      },
+                      "insertedContent": {
+                        "text": "strcat_s(pConfig->rocm_config.rocm_usescases, <size of pConfig->rocm_config.rocm_usescases>,  \"dkms\")"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If the combination of strings is larger than the destination buffer, strcat will cbuffer overflow the destination buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/rocm_offline_ui.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 7159,
+                        "charLength": 51
+                      },
+                      "insertedContent": {
+                        "text": "strlcat(pConfig->rocm_config.rocm_usescases,  \"dkms\", <size of pConfig->rocm_config.rocm_usescases>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-c43498d3-b72a-4e50-8bae-04020f3610eb",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/rocm_offline_ui.c"
+                },
+                "region": {
+                  "startLine": 238,
+                  "startColumn": 14,
+                  "endLine": 238,
+                  "endColumn": 57,
+                  "charOffset": 7007,
+                  "charLength": 43,
+                  "snippet": {
+                    "text": "strlen(pConfig->rocm_config.rocm_usescases)",
+                    "rendered": {
+                      "text": "strlen(pConfig->rocm_config.rocm_usescases)",
+                      "markdown": "`strlen(pConfig->rocm_config.rocm_usescases)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/rocm_offline_ui.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 7007,
+                        "charLength": 43
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(pConfig->rocm_config.rocm_usescases, <size of pConfig->rocm_config.rocm_usescases>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/rocm_offline_ui.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 7007,
+                        "charLength": 43
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(pConfig->rocm_config.rocm_usescases, <size of pConfig->rocm_config.rocm_usescases>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-289e3654-0ea6-4fe1-baa3-f0fc097ddad4",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/rocm_offline_ui.c"
+                },
+                "region": {
+                  "startLine": 146,
+                  "startColumn": 4,
+                  "endLine": 146,
+                  "endColumn": 53,
+                  "charOffset": 4052,
+                  "charLength": 49,
+                  "snippet": {
+                    "text": "strcpy(pConfig->kernelVersion, unameData.release)",
+                    "rendered": {
+                      "text": "strcpy(pConfig->kernelVersion, unameData.release)",
+                      "markdown": "`strcpy(pConfig->kernelVersion, unameData.release)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "strcpy is frequently dangerous, as it will cause a buffer overflow if the source is larger than the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/rocm_offline_ui.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 4052,
+                        "charLength": 49
+                      },
+                      "insertedContent": {
+                        "text": "strcpy_s(pConfig->kernelVersion, <size of pConfig->kernelVersion>,  unameData.release)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "strcpy is frequently dangerous, as it will cause a buffer overflow if the source is larger than the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/rocm_offline_ui.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 4052,
+                        "charLength": 49
+                      },
+                      "insertedContent": {
+                        "text": "strlcpy(pConfig->kernelVersion,  unameData.release, <size of pConfig->kernelVersion>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-dfd73c82-8ee1-48a8-9938-6112b57c5598",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/rocm_offline_ui.c"
+                },
+                "region": {
+                  "startLine": 122,
+                  "startColumn": 26,
+                  "endLine": 122,
+                  "endColumn": 39,
+                  "charOffset": 3718,
+                  "charLength": 13,
+                  "snippet": {
+                    "text": "strlen(value)",
+                    "rendered": {
+                      "text": "strlen(value)",
+                      "markdown": "`strlen(value)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/rocm_offline_ui.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 3718,
+                        "charLength": 13
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(value, <size of value>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/rocm_offline_ui.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 3718,
+                        "charLength": 13
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(value, <size of value>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-611ed425-b545-42b3-9275-6f82cefdc6ef",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/rocm_offline_ui.c"
+                },
+                "region": {
+                  "startLine": 121,
+                  "startColumn": 20,
+                  "endLine": 121,
+                  "endColumn": 40,
+                  "charOffset": 3670,
+                  "charLength": 20,
+                  "snippet": {
+                    "text": "strcpy(value, p + 1)",
+                    "rendered": {
+                      "text": "strcpy(value, p + 1)",
+                      "markdown": "`strcpy(value, p + 1)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "strcpy is frequently dangerous, as it will cause a buffer overflow if the source is larger than the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/rocm_offline_ui.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 3670,
+                        "charLength": 20
+                      },
+                      "insertedContent": {
+                        "text": "strcpy_s(value, <size of value>,  p + 1)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "strcpy is frequently dangerous, as it will cause a buffer overflow if the source is larger than the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/rocm_offline_ui.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 3670,
+                        "charLength": 20
+                      },
+                      "insertedContent": {
+                        "text": "strlcpy(value,  p + 1, <size of value>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-8e3d6ef3-0761-4173-b6d5-4f135c87129e",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/rocm_offline_ui.c"
+                },
+                "region": {
+                  "startLine": 117,
+                  "startColumn": 27,
+                  "endLine": 117,
+                  "endColumn": 40,
+                  "charOffset": 3566,
+                  "charLength": 13,
+                  "snippet": {
+                    "text": "strlen(value)",
+                    "rendered": {
+                      "text": "strlen(value)",
+                      "markdown": "`strlen(value)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/rocm_offline_ui.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 3566,
+                        "charLength": 13
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(value, <size of value>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/rocm_offline_ui.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 3566,
+                        "charLength": 13
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(value, <size of value>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-0fc4e31b-aa5a-4635-8721-d89f8038f2f5",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/rocm_offline_ui.c"
+                },
+                "region": {
+                  "startLine": 116,
+                  "startColumn": 20,
+                  "endLine": 116,
+                  "endColumn": 40,
+                  "charOffset": 3517,
+                  "charLength": 20,
+                  "snippet": {
+                    "text": "strcpy(value, p + 2)",
+                    "rendered": {
+                      "text": "strcpy(value, p + 2)",
+                      "markdown": "`strcpy(value, p + 2)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "strcpy is frequently dangerous, as it will cause a buffer overflow if the source is larger than the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/rocm_offline_ui.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 3517,
+                        "charLength": 20
+                      },
+                      "insertedContent": {
+                        "text": "strcpy_s(value, <size of value>,  p + 2)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "strcpy is frequently dangerous, as it will cause a buffer overflow if the source is larger than the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/rocm_offline_ui.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 3517,
+                        "charLength": 20
+                      },
+                      "insertedContent": {
+                        "text": "strlcpy(value,  p + 2, <size of value>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-25cc4cf0-25a5-4cb9-98de-d1d27acb4b75",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/menu_data.c"
+                },
+                "region": {
+                  "startLine": 1055,
+                  "startColumn": 20,
+                  "endLine": 1055,
+                  "endColumn": 48,
+                  "charOffset": 31401,
+                  "charLength": 28,
+                  "snippet": {
+                    "text": "strncat(query, (char*)&c, 1)",
+                    "rendered": {
+                      "text": "strncat(query, (char*)&c, 1)",
+                      "markdown": "`strncat(query, (char*)&c, 1)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "strncat adds the null terminator at character 'n + 1', rather than at the nth character. this frequently leads to the null terminator being added in the memory adjacent to the destination buffer, rather than in the destination buffer."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/menu_data.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 31401,
+                        "charLength": 28
+                      },
+                      "insertedContent": {
+                        "text": "strcat_s(query,  1,  (char*)&c)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "strncat adds the null terminator at character 'n + 1', rather than at the nth character. this frequently leads to the null terminator being added in the memory adjacent to the destination buffer, rather than in the destination buffer."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/menu_data.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 31401,
+                        "charLength": 28
+                      },
+                      "insertedContent": {
+                        "text": "strlcat(query,  (char*)&c,  1)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-45d6d139-2e34-4c15-a339-78e67d85c6eb",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/menu_data.c"
+                },
+                "region": {
+                  "startLine": 1053,
+                  "startColumn": 20,
+                  "endLine": 1053,
+                  "endColumn": 33,
+                  "charOffset": 31343,
+                  "charLength": 13,
+                  "snippet": {
+                    "text": "strlen(query)",
+                    "rendered": {
+                      "text": "strlen(query)",
+                      "markdown": "`strlen(query)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/menu_data.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 31343,
+                        "charLength": 13
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(query, <size of query>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/menu_data.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 31343,
+                        "charLength": 13
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(query, <size of query>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-d3d94c68-b609-41d0-aea2-634452cb63a6",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/menu_data.c"
+                },
+                "region": {
+                  "startLine": 904,
+                  "startColumn": 4,
+                  "endLine": 904,
+                  "endColumn": 41,
+                  "charOffset": 27445,
+                  "charLength": 37,
+                  "snippet": {
+                    "text": "strcpy(copy, pConfig->rocm_usescases)",
+                    "rendered": {
+                      "text": "strcpy(copy, pConfig->rocm_usescases)",
+                      "markdown": "`strcpy(copy, pConfig->rocm_usescases)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "strcpy is frequently dangerous, as it will cause a buffer overflow if the source is larger than the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/menu_data.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 27445,
+                        "charLength": 37
+                      },
+                      "insertedContent": {
+                        "text": "strcpy_s(copy, <size of copy>,  pConfig->rocm_usescases)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "strcpy is frequently dangerous, as it will cause a buffer overflow if the source is larger than the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/menu_data.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 27445,
+                        "charLength": 37
+                      },
+                      "insertedContent": {
+                        "text": "strlcpy(copy,  pConfig->rocm_usescases, <size of copy>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-d205d265-afa2-4bab-a679-490f3d6a5f73",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/menu_data.c"
+                },
+                "region": {
+                  "startLine": 572,
+                  "startColumn": 12,
+                  "endLine": 572,
+                  "endColumn": 29,
+                  "charOffset": 18350,
+                  "charLength": 17,
+                  "snippet": {
+                    "text": "strcat(temp, \" \")",
+                    "rendered": {
+                      "text": "strcat(temp, \" \")",
+                      "markdown": "`strcat(temp, \" \")`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If the combination of strings is larger than the destination buffer, strcat will cbuffer overflow the destination buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/menu_data.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 18350,
+                        "charLength": 17
+                      },
+                      "insertedContent": {
+                        "text": "strcat_s(temp, <size of temp>,  \" \")"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If the combination of strings is larger than the destination buffer, strcat will cbuffer overflow the destination buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/menu_data.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 18350,
+                        "charLength": 17
+                      },
+                      "insertedContent": {
+                        "text": "strlcat(temp,  \" \", <size of temp>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-dd5ae44a-869b-48a7-b7fe-1e1237bc3295",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/menu_data.c"
+                },
+                "region": {
+                  "startLine": 571,
+                  "startColumn": 12,
+                  "endLine": 571,
+                  "endColumn": 44,
+                  "charOffset": 18303,
+                  "charLength": 32,
+                  "snippet": {
+                    "text": "strcat(temp, item_name(items[i])",
+                    "rendered": {
+                      "text": "strcat(temp, item_name(items[i])",
+                      "markdown": "`strcat(temp, item_name(items[i])`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If the combination of strings is larger than the destination buffer, strcat will cbuffer overflow the destination buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/menu_data.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 18303,
+                        "charLength": 32
+                      },
+                      "insertedContent": {
+                        "text": "strcat_s(temp, <size of temp>,  item_name(items[i])"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If the combination of strings is larger than the destination buffer, strcat will cbuffer overflow the destination buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/menu_data.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 18303,
+                        "charLength": 32
+                      },
+                      "insertedContent": {
+                        "text": "strlcat(temp,  item_name(items[i], <size of temp>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-0bfc6bcc-acda-49e3-8ae3-eb11b260b31e",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/menu_data.c"
+                },
+                "region": {
+                  "startLine": 473,
+                  "startColumn": 13,
+                  "endLine": 473,
+                  "endColumn": 27,
+                  "charOffset": 15444,
+                  "charLength": 14,
+                  "snippet": {
+                    "text": "strlen(string)",
+                    "rendered": {
+                      "text": "strlen(string)",
+                      "markdown": "`strlen(string)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/menu_data.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 15444,
+                        "charLength": 14
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(string, <size of string>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/menu_data.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 15444,
+                        "charLength": 14
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(string, <size of string>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-a54e2423-d22d-4183-aa14-f271cb6f86c6",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/menu_data.c"
+                },
+                "region": {
+                  "startLine": 91,
+                  "startColumn": 4,
+                  "endLine": 91,
+                  "endColumn": 99,
+                  "charOffset": 3444,
+                  "charLength": 95,
+                  "snippet": {
+                    "text": "strncpy(pMenuData->itemList[itemListIndex].itemTitle, pItemListParams->pItemListTitle, (size_t)",
+                    "rendered": {
+                      "text": "strncpy(pMenuData->itemList[itemListIndex].itemTitle, pItemListParams->pItemListTitle, (size_t)",
+                      "markdown": "`strncpy(pMenuData->itemList[itemListIndex].itemTitle, pItemListParams->pItemListTitle, (size_t)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "strncpy is dangerous, as if the source contains 'n' or more characters, it will not null terminate the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/menu_data.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 3444,
+                        "charLength": 95
+                      },
+                      "insertedContent": {
+                        "text": "strcpy_s(pMenuData->itemList[itemListIndex].itemTitle,  (size_t,  pItemListParams->pItemListTitle)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "strncpy is dangerous, as if the source contains 'n' or more characters, it will not null terminate the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/menu_data.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 3444,
+                        "charLength": 95
+                      },
+                      "insertedContent": {
+                        "text": "strlcpy(pMenuData->itemList[itemListIndex].itemTitle,  pItemListParams->pItemListTitle,  (size_t)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-171106ef-c5bb-41c1-ad23-f0b596c4bc89",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/menu_data.c"
+                },
+                "region": {
+                  "startLine": 84,
+                  "startColumn": 27,
+                  "endLine": 84,
+                  "endColumn": 66,
+                  "charOffset": 3290,
+                  "charLength": 39,
+                  "snippet": {
+                    "text": "strlen(pItemListParams->pItemListTitle)",
+                    "rendered": {
+                      "text": "strlen(pItemListParams->pItemListTitle)",
+                      "markdown": "`strlen(pItemListParams->pItemListTitle)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/menu_data.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 3290,
+                        "charLength": 39
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(pItemListParams->pItemListTitle, <size of pItemListParams->pItemListTitle>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/menu_data.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 3290,
+                        "charLength": 39
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(pItemListParams->pItemListTitle, <size of pItemListParams->pItemListTitle>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-4491cd68-b290-4e73-8109-03798c664be4",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/menu_data.c"
+                },
+                "region": {
+                  "startLine": 38,
+                  "startColumn": 4,
+                  "endLine": 38,
+                  "endColumn": 67,
+                  "charOffset": 1817,
+                  "charLength": 63,
+                  "snippet": {
+                    "text": "strcpy(pMenuData->menuControlMsg, pProperties->pMenuControlMsg)",
+                    "rendered": {
+                      "text": "strcpy(pMenuData->menuControlMsg, pProperties->pMenuControlMsg)",
+                      "markdown": "`strcpy(pMenuData->menuControlMsg, pProperties->pMenuControlMsg)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "strcpy is frequently dangerous, as it will cause a buffer overflow if the source is larger than the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/menu_data.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 1817,
+                        "charLength": 63
+                      },
+                      "insertedContent": {
+                        "text": "strcpy_s(pMenuData->menuControlMsg, <size of pMenuData->menuControlMsg>,  pProperties->pMenuControlMsg)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "strcpy is frequently dangerous, as it will cause a buffer overflow if the source is larger than the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/menu_data.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 1817,
+                        "charLength": 63
+                      },
+                      "insertedContent": {
+                        "text": "strlcpy(pMenuData->menuControlMsg,  pProperties->pMenuControlMsg, <size of pMenuData->menuControlMsg>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-6276a412-36ff-4b99-b1fd-7c59fc0d922b",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/menu_data.c"
+                },
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 4,
+                  "endLine": 37,
+                  "endColumn": 57,
+                  "charOffset": 1758,
+                  "charLength": 53,
+                  "snippet": {
+                    "text": "strcpy(pMenuData->menuTitle, pProperties->pMenuTitle)",
+                    "rendered": {
+                      "text": "strcpy(pMenuData->menuTitle, pProperties->pMenuTitle)",
+                      "markdown": "`strcpy(pMenuData->menuTitle, pProperties->pMenuTitle)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "strcpy is frequently dangerous, as it will cause a buffer overflow if the source is larger than the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/menu_data.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 1758,
+                        "charLength": 53
+                      },
+                      "insertedContent": {
+                        "text": "strcpy_s(pMenuData->menuTitle, <size of pMenuData->menuTitle>,  pProperties->pMenuTitle)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "strcpy is frequently dangerous, as it will cause a buffer overflow if the source is larger than the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/menu_data.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 1758,
+                        "charLength": 53
+                      },
+                      "insertedContent": {
+                        "text": "strlcpy(pMenuData->menuTitle,  pProperties->pMenuTitle, <size of pMenuData->menuTitle>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-f47b4ed1-c661-4944-bd4d-4e373b66dd80",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/create_menu.c"
+                },
+                "region": {
+                  "startLine": 460,
+                  "startColumn": 8,
+                  "endLine": 460,
+                  "endColumn": 62,
+                  "charOffset": 16402,
+                  "charLength": 54,
+                  "snippet": {
+                    "text": "strcat(pConfig->installer_name_with_extension, \".run\")",
+                    "rendered": {
+                      "text": "strcat(pConfig->installer_name_with_extension, \".run\")",
+                      "markdown": "`strcat(pConfig->installer_name_with_extension, \".run\")`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If the combination of strings is larger than the destination buffer, strcat will cbuffer overflow the destination buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/create_menu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 16402,
+                        "charLength": 54
+                      },
+                      "insertedContent": {
+                        "text": "strcat_s(pConfig->installer_name_with_extension, <size of pConfig->installer_name_with_extension>,  \".run\")"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If the combination of strings is larger than the destination buffer, strcat will cbuffer overflow the destination buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/create_menu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 16402,
+                        "charLength": 54
+                      },
+                      "insertedContent": {
+                        "text": "strlcat(pConfig->installer_name_with_extension,  \".run\", <size of pConfig->installer_name_with_extension>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-634c9a29-023f-434b-aebe-0339a8605b17",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/create_menu.c"
+                },
+                "region": {
+                  "startLine": 458,
+                  "startColumn": 8,
+                  "endLine": 458,
+                  "endColumn": 89,
+                  "charOffset": 16179,
+                  "charLength": 81,
+                  "snippet": {
+                    "text": "strncpy(pConfig->installer_name_with_extension, pConfig->installer_name, end + 1)",
+                    "rendered": {
+                      "text": "strncpy(pConfig->installer_name_with_extension, pConfig->installer_name, end + 1)",
+                      "markdown": "`strncpy(pConfig->installer_name_with_extension, pConfig->installer_name, end + 1)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "strncpy is dangerous, as if the source contains 'n' or more characters, it will not null terminate the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/create_menu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 16179,
+                        "charLength": 81
+                      },
+                      "insertedContent": {
+                        "text": "strcpy_s(pConfig->installer_name_with_extension,  end + 1,  pConfig->installer_name)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "strncpy is dangerous, as if the source contains 'n' or more characters, it will not null terminate the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/create_menu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 16179,
+                        "charLength": 81
+                      },
+                      "insertedContent": {
+                        "text": "strlcpy(pConfig->installer_name_with_extension,  pConfig->installer_name,  end + 1)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-a1fc2614-b5d2-492b-b411-104b5239aae1",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/create_menu.c"
+                },
+                "region": {
+                  "startLine": 442,
+                  "startColumn": 24,
+                  "endLine": 442,
+                  "endColumn": 55,
+                  "charOffset": 15535,
+                  "charLength": 31,
+                  "snippet": {
+                    "text": "strlen(pConfig->installer_name)",
+                    "rendered": {
+                      "text": "strlen(pConfig->installer_name)",
+                      "markdown": "`strlen(pConfig->installer_name)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/create_menu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 15535,
+                        "charLength": 31
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(pConfig->installer_name, <size of pConfig->installer_name>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/create_menu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 15535,
+                        "charLength": 31
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(pConfig->installer_name, <size of pConfig->installer_name>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-0d46dba3-5f11-4eaf-93ef-a04b7bf66ad1",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/create_menu.c"
+                },
+                "region": {
+                  "startLine": 194,
+                  "startColumn": 4,
+                  "endLine": 194,
+                  "endColumn": 73,
+                  "charOffset": 7614,
+                  "charLength": 69,
+                  "snippet": {
+                    "text": "strcpy(pMenuData->pFormList.formControlMsg, DEFAULT_FORM_CONTROL_MSG)",
+                    "rendered": {
+                      "text": "strcpy(pMenuData->pFormList.formControlMsg, DEFAULT_FORM_CONTROL_MSG)",
+                      "markdown": "`strcpy(pMenuData->pFormList.formControlMsg, DEFAULT_FORM_CONTROL_MSG)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "strcpy is frequently dangerous, as it will cause a buffer overflow if the source is larger than the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/create_menu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 7614,
+                        "charLength": 69
+                      },
+                      "insertedContent": {
+                        "text": "strcpy_s(pMenuData->pFormList.formControlMsg, <size of pMenuData->pFormList.formControlMsg>,  DEFAULT_FORM_CONTROL_MSG)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "strcpy is frequently dangerous, as it will cause a buffer overflow if the source is larger than the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/create_menu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 7614,
+                        "charLength": 69
+                      },
+                      "insertedContent": {
+                        "text": "strlcpy(pMenuData->pFormList.formControlMsg,  DEFAULT_FORM_CONTROL_MSG, <size of pMenuData->pFormList.formControlMsg>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-e8e7651a-3318-48f6-95c5-7e9ae3a161df",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/rocm_menu.c"
+                },
+                "region": {
+                  "startLine": 914,
+                  "startColumn": 57,
+                  "endLine": 914,
+                  "endColumn": 81,
+                  "charOffset": 28611,
+                  "charLength": 24,
+                  "snippet": {
+                    "text": "strlen(disabledUsecases)",
+                    "rendered": {
+                      "text": "strlen(disabledUsecases)",
+                      "markdown": "`strlen(disabledUsecases)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/rocm_menu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 28611,
+                        "charLength": 24
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(disabledUsecases, <size of disabledUsecases>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/rocm_menu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 28611,
+                        "charLength": 24
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(disabledUsecases, <size of disabledUsecases>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-84a8dd2a-43c9-429c-8b79-052f39497d58",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/rocm_menu.c"
+                },
+                "region": {
+                  "startLine": 914,
+                  "startColumn": 8,
+                  "endLine": 914,
+                  "endColumn": 81,
+                  "charOffset": 28562,
+                  "charLength": 73,
+                  "snippet": {
+                    "text": "strncpy(printDisabledUsecases, disabledUsecases, strlen(disabledUsecases)",
+                    "rendered": {
+                      "text": "strncpy(printDisabledUsecases, disabledUsecases, strlen(disabledUsecases)",
+                      "markdown": "`strncpy(printDisabledUsecases, disabledUsecases, strlen(disabledUsecases)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "strncpy is dangerous, as if the source contains 'n' or more characters, it will not null terminate the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/rocm_menu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 28562,
+                        "charLength": 73
+                      },
+                      "insertedContent": {
+                        "text": "strcpy_s(printDisabledUsecases,  strlen(disabledUsecases,  disabledUsecases)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "strncpy is dangerous, as if the source contains 'n' or more characters, it will not null terminate the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/rocm_menu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 28562,
+                        "charLength": 73
+                      },
+                      "insertedContent": {
+                        "text": "strlcpy(printDisabledUsecases,  disabledUsecases,  strlen(disabledUsecases)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-32fe53bb-cec9-4870-82e3-6eed53f3f156",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/rocm_menu.c"
+                },
+                "region": {
+                  "startLine": 912,
+                  "startColumn": 8,
+                  "endLine": 912,
+                  "endColumn": 32,
+                  "charOffset": 28515,
+                  "charLength": 24,
+                  "snippet": {
+                    "text": "strlen(disabledUsecases)",
+                    "rendered": {
+                      "text": "strlen(disabledUsecases)",
+                      "markdown": "`strlen(disabledUsecases)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/rocm_menu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 28515,
+                        "charLength": 24
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(disabledUsecases, <size of disabledUsecases>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/rocm_menu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 28515,
+                        "charLength": 24
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(disabledUsecases, <size of disabledUsecases>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-bd7f9eb2-7e8e-4da5-b962-68e5adef6fbb",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/rocm_menu.c"
+                },
+                "region": {
+                  "startLine": 885,
+                  "startColumn": 8,
+                  "endLine": 885,
+                  "endColumn": 41,
+                  "charOffset": 27546,
+                  "charLength": 33,
+                  "snippet": {
+                    "text": "strcat(disabledUsecases, usecase)",
+                    "rendered": {
+                      "text": "strcat(disabledUsecases, usecase)",
+                      "markdown": "`strcat(disabledUsecases, usecase)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If the combination of strings is larger than the destination buffer, strcat will cbuffer overflow the destination buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/rocm_menu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 27546,
+                        "charLength": 33
+                      },
+                      "insertedContent": {
+                        "text": "strcat_s(disabledUsecases, <size of disabledUsecases>,  usecase)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If the combination of strings is larger than the destination buffer, strcat will cbuffer overflow the destination buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/rocm_menu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 27546,
+                        "charLength": 33
+                      },
+                      "insertedContent": {
+                        "text": "strlcat(disabledUsecases,  usecase, <size of disabledUsecases>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-6363d3a9-10d3-476b-8654-eebb5d713706",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/rocm_menu.c"
+                },
+                "region": {
+                  "startLine": 863,
+                  "startColumn": 11,
+                  "endLine": 863,
+                  "endColumn": 41,
+                  "charOffset": 26708,
+                  "charLength": 30,
+                  "snippet": {
+                    "text": "strlen(pConfig->rocm_versions)",
+                    "rendered": {
+                      "text": "strlen(pConfig->rocm_versions)",
+                      "markdown": "`strlen(pConfig->rocm_versions)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/rocm_menu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 26708,
+                        "charLength": 30
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(pConfig->rocm_versions, <size of pConfig->rocm_versions>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/rocm_menu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 26708,
+                        "charLength": 30
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(pConfig->rocm_versions, <size of pConfig->rocm_versions>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-7cbaa0b2-05cf-4a37-8b31-f791af380b6a",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/summary_menu.c"
+                },
+                "region": {
+                  "startLine": 404,
+                  "startColumn": 16,
+                  "endLine": 404,
+                  "endColumn": 59,
+                  "charOffset": 11560,
+                  "charLength": 43,
+                  "snippet": {
+                    "text": "strlen(pConfig->rocm_config.rocm_usescases)",
+                    "rendered": {
+                      "text": "strlen(pConfig->rocm_config.rocm_usescases)",
+                      "markdown": "`strlen(pConfig->rocm_config.rocm_usescases)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/summary_menu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 11560,
+                        "charLength": 43
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(pConfig->rocm_config.rocm_usescases, <size of pConfig->rocm_config.rocm_usescases>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/summary_menu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 11560,
+                        "charLength": 43
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(pConfig->rocm_config.rocm_usescases, <size of pConfig->rocm_config.rocm_usescases>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-a9bb7ed8-23dc-4a17-a3d7-8f54ea497d27",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/rocm_menu.c"
+                },
+                "region": {
+                  "startLine": 758,
+                  "startColumn": 27,
+                  "endLine": 758,
+                  "endColumn": 57,
+                  "charOffset": 23976,
+                  "charLength": 30,
+                  "snippet": {
+                    "text": "strlen(pConfig->rocm_versions)",
+                    "rendered": {
+                      "text": "strlen(pConfig->rocm_versions)",
+                      "markdown": "`strlen(pConfig->rocm_versions)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/rocm_menu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 23976,
+                        "charLength": 30
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(pConfig->rocm_versions, <size of pConfig->rocm_versions>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/rocm_menu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 23976,
+                        "charLength": 30
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(pConfig->rocm_versions, <size of pConfig->rocm_versions>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-3668e28c-bb04-4515-8650-6d3e1321754a",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/summary_menu.c"
+                },
+                "region": {
+                  "startLine": 373,
+                  "startColumn": 16,
+                  "endLine": 373,
+                  "endColumn": 58,
+                  "charOffset": 10749,
+                  "charLength": 42,
+                  "snippet": {
+                    "text": "strlen(pConfig->rocm_config.rocm_versions)",
+                    "rendered": {
+                      "text": "strlen(pConfig->rocm_config.rocm_versions)",
+                      "markdown": "`strlen(pConfig->rocm_config.rocm_versions)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/summary_menu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 10749,
+                        "charLength": 42
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(pConfig->rocm_config.rocm_versions, <size of pConfig->rocm_config.rocm_versions>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/summary_menu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 10749,
+                        "charLength": 42
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(pConfig->rocm_config.rocm_versions, <size of pConfig->rocm_config.rocm_versions>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-3b4eb57a-d5a9-4ac0-993d-73e2b875a88f",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/rocm_menu.c"
+                },
+                "region": {
+                  "startLine": 746,
+                  "startColumn": 12,
+                  "endLine": 746,
+                  "endColumn": 62,
+                  "charOffset": 23638,
+                  "charLength": 50,
+                  "snippet": {
+                    "text": "strcat(pConfig->rocm_versions, item_name(items[i])",
+                    "rendered": {
+                      "text": "strcat(pConfig->rocm_versions, item_name(items[i])",
+                      "markdown": "`strcat(pConfig->rocm_versions, item_name(items[i])`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If the combination of strings is larger than the destination buffer, strcat will cbuffer overflow the destination buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/rocm_menu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 23638,
+                        "charLength": 50
+                      },
+                      "insertedContent": {
+                        "text": "strcat_s(pConfig->rocm_versions, <size of pConfig->rocm_versions>,  item_name(items[i])"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If the combination of strings is larger than the destination buffer, strcat will cbuffer overflow the destination buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/rocm_menu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 23638,
+                        "charLength": 50
+                      },
+                      "insertedContent": {
+                        "text": "strlcat(pConfig->rocm_versions,  item_name(items[i], <size of pConfig->rocm_versions>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-d5c5dcda-e135-4409-bf85-b019510a159f",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/summary_menu.c"
+                },
+                "region": {
+                  "startLine": 368,
+                  "startColumn": 16,
+                  "endLine": 368,
+                  "endColumn": 58,
+                  "charOffset": 10570,
+                  "charLength": 42,
+                  "snippet": {
+                    "text": "strlen(pConfig->rocm_config.rocm_versions)",
+                    "rendered": {
+                      "text": "strlen(pConfig->rocm_config.rocm_versions)",
+                      "markdown": "`strlen(pConfig->rocm_config.rocm_versions)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/summary_menu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 10570,
+                        "charLength": 42
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(pConfig->rocm_config.rocm_versions, <size of pConfig->rocm_config.rocm_versions>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/summary_menu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 10570,
+                        "charLength": 42
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(pConfig->rocm_config.rocm_versions, <size of pConfig->rocm_config.rocm_versions>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-96bf5ffa-f05d-4bb5-8cda-d6851a8a518d",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/rocm_menu.c"
+                },
+                "region": {
+                  "startLine": 574,
+                  "startColumn": 28,
+                  "endLine": 574,
+                  "endColumn": 59,
+                  "charOffset": 18110,
+                  "charLength": 31,
+                  "snippet": {
+                    "text": "strlen(pConfig->rocm_usescases)",
+                    "rendered": {
+                      "text": "strlen(pConfig->rocm_usescases)",
+                      "markdown": "`strlen(pConfig->rocm_usescases)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/rocm_menu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 18110,
+                        "charLength": 31
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(pConfig->rocm_usescases, <size of pConfig->rocm_usescases>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/rocm_menu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 18110,
+                        "charLength": 31
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(pConfig->rocm_usescases, <size of pConfig->rocm_usescases>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-bbb5a1c1-dd3a-4161-afca-8f02310ab78e",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/summary_menu.c"
+                },
+                "region": {
+                  "startLine": 352,
+                  "startColumn": 12,
+                  "endLine": 352,
+                  "endColumn": 54,
+                  "charOffset": 10180,
+                  "charLength": 42,
+                  "snippet": {
+                    "text": "strlen(pConfig->rocm_config.rocm_versions)",
+                    "rendered": {
+                      "text": "strlen(pConfig->rocm_config.rocm_versions)",
+                      "markdown": "`strlen(pConfig->rocm_config.rocm_versions)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/summary_menu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 10180,
+                        "charLength": 42
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(pConfig->rocm_config.rocm_versions, <size of pConfig->rocm_config.rocm_versions>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/summary_menu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 10180,
+                        "charLength": 42
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(pConfig->rocm_config.rocm_versions, <size of pConfig->rocm_config.rocm_versions>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-23385698-95ec-4235-8cfe-f6bbb62d9601",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/summary_menu.c"
+                },
+                "region": {
+                  "startLine": 344,
+                  "startColumn": 12,
+                  "endLine": 344,
+                  "endColumn": 55,
+                  "charOffset": 10012,
+                  "charLength": 43,
+                  "snippet": {
+                    "text": "strlen(pConfig->rocm_config.rocm_usescases)",
+                    "rendered": {
+                      "text": "strlen(pConfig->rocm_config.rocm_usescases)",
+                      "markdown": "`strlen(pConfig->rocm_config.rocm_usescases)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/summary_menu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 10012,
+                        "charLength": 43
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(pConfig->rocm_config.rocm_usescases, <size of pConfig->rocm_config.rocm_usescases>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/summary_menu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 10012,
+                        "charLength": 43
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(pConfig->rocm_config.rocm_usescases, <size of pConfig->rocm_config.rocm_usescases>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-0cf10c0e-6d6f-47e6-9919-e2ad8661fb68",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/summary_menu.c"
+                },
+                "region": {
+                  "startLine": 339,
+                  "startColumn": 12,
+                  "endLine": 339,
+                  "endColumn": 54,
+                  "charOffset": 9904,
+                  "charLength": 42,
+                  "snippet": {
+                    "text": "strlen(pConfig->rocm_config.rocm_versions)",
+                    "rendered": {
+                      "text": "strlen(pConfig->rocm_config.rocm_versions)",
+                      "markdown": "`strlen(pConfig->rocm_config.rocm_versions)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/summary_menu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 9904,
+                        "charLength": 42
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(pConfig->rocm_config.rocm_versions, <size of pConfig->rocm_config.rocm_versions>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/summary_menu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 9904,
+                        "charLength": 42
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(pConfig->rocm_config.rocm_versions, <size of pConfig->rocm_config.rocm_versions>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-0f2f7e81-083b-4b85-ba1b-2d72014f2ec4",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/summary_menu.c"
+                },
+                "region": {
+                  "startLine": 256,
+                  "startColumn": 33,
+                  "endLine": 256,
+                  "endColumn": 45,
+                  "charOffset": 7647,
+                  "charLength": 12,
+                  "snippet": {
+                    "text": "strlen(text)",
+                    "rendered": {
+                      "text": "strlen(text)",
+                      "markdown": "`strlen(text)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/summary_menu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 7647,
+                        "charLength": 12
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(text, <size of text>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/summary_menu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 7647,
+                        "charLength": 12
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(text, <size of text>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-3e8b5952-e4e3-4f40-85cf-c0526fc2ec36",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/summary_menu.c"
+                },
+                "region": {
+                  "startLine": 254,
+                  "startColumn": 42,
+                  "endLine": 254,
+                  "endColumn": 54,
+                  "charOffset": 7586,
+                  "charLength": 12,
+                  "snippet": {
+                    "text": "strlen(text)",
+                    "rendered": {
+                      "text": "strlen(text)",
+                      "markdown": "`strlen(text)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/summary_menu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 7586,
+                        "charLength": 12
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(text, <size of text>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/summary_menu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 7586,
+                        "charLength": 12
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(text, <size of text>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-d19ddae8-c609-498e-bc07-8b47bc175095",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/summary_menu.c"
+                },
+                "region": {
+                  "startLine": 250,
+                  "startColumn": 12,
+                  "endLine": 250,
+                  "endColumn": 60,
+                  "charOffset": 7328,
+                  "charLength": 48,
+                  "snippet": {
+                    "text": "strncpy(substring, text + startIndex, lineWidth)",
+                    "rendered": {
+                      "text": "strncpy(substring, text + startIndex, lineWidth)",
+                      "markdown": "`strncpy(substring, text + startIndex, lineWidth)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "strncpy is dangerous, as if the source contains 'n' or more characters, it will not null terminate the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/summary_menu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 7328,
+                        "charLength": 48
+                      },
+                      "insertedContent": {
+                        "text": "strcpy_s(substring,  lineWidth,  text + startIndex)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "strncpy is dangerous, as if the source contains 'n' or more characters, it will not null terminate the destination."
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/summary_menu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 7328,
+                        "charLength": 48
+                      },
+                      "insertedContent": {
+                        "text": "strlcpy(substring,  text + startIndex,  lineWidth)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-55c0e5b8-13f4-4579-b12a-8687d6d37e02",
+          "kind": "fail",
+          "level": "error",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/rocm_menu.c"
+                },
+                "region": {
+                  "startLine": 569,
+                  "startColumn": 12,
+                  "endLine": 569,
+                  "endColumn": 63,
+                  "charOffset": 17961,
+                  "charLength": 51,
+                  "snippet": {
+                    "text": "strcat(pConfig->rocm_usescases, item_name(items[i])",
+                    "rendered": {
+                      "text": "strcat(pConfig->rocm_usescases, item_name(items[i])",
+                      "markdown": "`strcat(pConfig->rocm_usescases, item_name(items[i])`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If the combination of strings is larger than the destination buffer, strcat will cbuffer overflow the destination buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/rocm_menu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 17961,
+                        "charLength": 51
+                      },
+                      "insertedContent": {
+                        "text": "strcat_s(pConfig->rocm_usescases, <size of pConfig->rocm_usescases>,  item_name(items[i])"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If the combination of strings is larger than the destination buffer, strcat will cbuffer overflow the destination buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/rocm_menu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 17961,
+                        "charLength": 51
+                      },
+                      "insertedContent": {
+                        "text": "strlcat(pConfig->rocm_usescases,  item_name(items[i], <size of pConfig->rocm_usescases>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "Important",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.BannedFunction"
+            ]
+          }
+        },
+        {
+          "ruleId": "glog-27fdf800-8b04-4d5d-a39e-a7284a4a8810",
+          "kind": "fail",
+          "level": "note",
+          "message": {},
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "src/offline-installer/UI/src/summary_menu.c"
+                },
+                "region": {
+                  "startLine": 231,
+                  "startColumn": 8,
+                  "endLine": 231,
+                  "endColumn": 20,
+                  "charOffset": 6860,
+                  "charLength": 12,
+                  "snippet": {
+                    "text": "strlen(text)",
+                    "rendered": {
+                      "text": "strlen(text)",
+                      "markdown": "`strlen(text)`"
+                    }
+                  },
+                  "sourceLanguage": "c"
+                }
+              }
+            }
+          ],
+          "fixes": [
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/summary_menu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 6860,
+                        "charLength": 12
+                      },
+                      "insertedContent": {
+                        "text": "strlen_s(text, <size of text>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "description": {
+                "text": "If a string is missing a null terminator, strlen will read past the end of the buffer"
+              },
+              "artifactChanges": [
+                {
+                  "artifactLocation": {
+                    "uri": "src/offline-installer/UI/src/summary_menu.c"
+                  },
+                  "replacements": [
+                    {
+                      "deletedRegion": {
+                        "charOffset": 6860,
+                        "charLength": 12
+                      },
+                      "insertedContent": {
+                        "text": "strnlen(text, <size of text>)"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "DevSkimSeverity": "BestPractice",
+            "DevSkimConfidence": "High",
+            "tags": [
+              "API.DangerousAPI.ProblematicFunction"
+            ]
+          }
+        }
+      ],
+      "newlineSequences": [
+        "\r\n",
+        "\n"
+      ]
+    }
+  ]
+}
